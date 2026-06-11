@@ -6,8 +6,7 @@
       "file-types": ["lmp", "lmps", "lammps", "in"],
       "highlights": "queries/highlights.scm",
       "brackets": "queries/brackets.scm",
-      "indents": "queries/indents.scm",
-      "outline": "queries/outline.scm"
+      "indents": "queries/indents.scm"
     }
   ],
   "metadata": {
