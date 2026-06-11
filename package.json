@@ -1,0 +1,17 @@
+{
+  "name": "tree-sitter-lammps",
+  "version": "0.1.0",
+  "description": "LAMMPS input script tree-sitter grammar",
+  "main": "grammar.js",
+  "scripts": {
+    "generate": "tree-sitter generate",
+    "test": "tree-sitter test"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "nan": "^2.20.0"
+  },
+  "devDependencies": {
+    "tree-sitter-cli": "^0.26.0"
+  }
+}

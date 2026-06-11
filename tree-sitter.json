@@ -1,0 +1,25 @@
+{
+  "grammars": [
+    {
+      "name": "lammps",
+      "scope": "source.lammps",
+      "file-types": ["lmp", "lmps", "lammps", "in"],
+      "highlights": "queries/highlights.scm",
+      "brackets": "queries/brackets.scm",
+      "indents": "queries/indents.scm",
+      "outline": "queries/outline.scm"
+    }
+  ],
+  "metadata": {
+    "version": "0.1.0",
+    "description": "Tree-sitter grammar for LAMMPS molecular dynamics input scripts",
+    "authors": [
+      {
+        "name": "crack-time"
+      }
+    ],
+    "links": {
+      "repository": "https://github.com/crack-time/lammps-tree-sitter"
+    }
+  }
+}
