@@ -94,6 +94,10 @@
             "name": "operator"
           },
           {
+            "type": "STRING",
+            "value": "&"
+          },
+          {
             "type": "SYMBOL",
             "name": "word"
           },
