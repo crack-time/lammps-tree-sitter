@@ -21,6 +21,7 @@ module.exports = grammar({
       $.number,
       $.variable,
       $.operator,
+      '&',
       $.word,
       '(',
       ')',
